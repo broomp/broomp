@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Salaymeh</h1>
-<h3 align="center">Data Engineer | Full Stack Developer</h3>
+<h3 align="center"> Full Stack Developer | Data Engineer</h3>
 
 - 🔭 Currently Working On My Personal Website
 
