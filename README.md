@@ -10,7 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Java | Python | JavaScript | PostgreSQL| HTML/CSS | Docker |
-
+JavaScript | Python | Java |
 
 
