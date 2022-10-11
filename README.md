@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **asalaymeh29@gmail.com**
 
-- 💻 Personal Website: [ahmadsalaymeh.dev](ahmadsalaymeh.dev)
+- 💻 Personal Website: [ahmadsalaymeh.dev](https://ahmadsalaymeh.dev/)
 
 <p align="left">
 </p>
