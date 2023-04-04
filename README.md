@@ -2,6 +2,7 @@
 <h3 align="center"> Full Stack Developer | Data Engineer</h3>
 
 - 🔭 Currently Working On Dream State Libary -> wavless.io
+- currently working on learning Django due to design choices that made me pick it over flask 
 
 - 📫 How to reach me **asalaymeh29@gmail.com**
 
