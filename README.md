@@ -2,9 +2,14 @@
 <h3 align="center"> Software Engineer</h3>
 
 <h2> Current Projects </h2>
-- Currently Working on wavless.io (On Pause) 
-- Currently Working on open source nuxt3 blog
-
+<ul>
+ <li>
+  Currently Working on wavless.io (On Pause) 
+ </li>
+ <li>
+  Currently Working on open source nuxt3 blog
+ </li>
+</ul>
 <p align="left">
 </p>
 
