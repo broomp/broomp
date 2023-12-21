@@ -24,11 +24,22 @@
   </li>
  </ul>
   <h4 align="left"> Javascript Frameworks/Library </h4>
- - Vue.js
- - Nuxt3
+ <ul>
+  <li>
+    Vue.js
+  </li>
+    <li>
+    Nuxt3
+  </li>
+ </ul>
 
  <h4 align="left"> GO ? </h4>
- - coming soon...idk when
+ <ul>
+  <li>
+    coming soon...idk when
+  </li>
+ </ul>
+
 
    
 
