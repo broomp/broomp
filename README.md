@@ -15,8 +15,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- Python | JavaScript | Go ? 
-
+<ul>
+ <li>
+  Python
+ </li>
+ <li>
+  JavaScript
+ </li>
+ <li>
+  Go ? 
+ </li>
+</ul>
  <h4 align="left"> Python Frameworks/Library </h4>
  <ul>
   <li>
