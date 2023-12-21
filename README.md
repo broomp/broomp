@@ -12,10 +12,17 @@
  Python | JavaScript | Go ? 
 
  <h4 align="left"> Python Frameworks/Library </h4>
- - Pandas
- - PySpark
- - Airflow
-
+ <ul>
+  <li>
+    Pandas
+  </li>
+    <li>
+    PySpark
+  </li>
+      <li>
+    airflow
+  </li>
+ </ul>
   <h4 align="left"> Javascript Frameworks/Library </h4>
  - Vue.js
  - Nuxt3
