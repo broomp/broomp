@@ -1,8 +1,9 @@
 
 <h3 align="center"> Software Engineer</h3>
 
-- 🔭 Currently Working on wavless.io
-- learning Web Stacks 
+<h2> Current Projects </h2>
+- Currently Working on wavless.io (On Pause) 
+- Currently Working on open source nuxt3 blog
 
 <p align="left">
 </p>
