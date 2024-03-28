@@ -46,6 +46,12 @@
     <li>
     Nuxt3
   </li>
+    <li>
+    React.js
+  </li>
+    <li>
+    Next.js
+  </li>
  </ul>
 
  <h4 align="left"> GO ? </h4>
